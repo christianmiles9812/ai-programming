@@ -1,0 +1,52 @@
+{
+  "resources": [
+    {
+      "name": "Library",
+      "aliases": ["lib", "library", "media center"],
+      "location": "Hultquist Library: Jamestown Campus",
+      "hours": "8 AM to 6 PM",
+      "phone": "(716) 338 1008",
+      "email": "No email listed",
+      "website": "https://www.sunyjcc.edu/support/learning-commons/library",
+      "description": "Study spaces, research help, and computer access.",
+      "verified_by": "Christian Miles",
+      "last_verified": "2026/10/01"
+    },
+    {
+      "name": "Tutoring Center",
+      "aliases": ["tutoring", "tutor", "academic support"],
+      "location": "HULT Floor 1: Learning Commons",
+      "hours": "No hours listed, Hultquist is open from 8 AM to 6 PM",
+      "phone": "(716) 338 1008",
+      "email": "No email Listed",
+      "website": "https://www.sunyjcc.edu/support/learning-commons/learning-center",
+      "description": "Free tutoring for currently enrolled students.",
+      "verified_by": "Christian Miles",
+      "last_verified": "2026/10/01"
+    },
+    {
+      "name": "Academic Advising",
+      "aliases": ["advising", "advisor", "counselor"],
+      "location": "No building listed",
+      "hours": "9 AM to 5 PM",
+      "phone": "(716) 338 4019",
+      "email": "No email listed",
+      "website": "https://www.sunyjcc.edu/support/success-center/advising",
+      "description": "Help with degree planning and course selection.",
+      "verified_by": "Christian Miles",
+      "last_verified": "2026/10/01"
+    },
+    {
+      "name": "Financial Aid Office",
+      "aliases": ["financial aid", "fafsa", "grants", "scholarships"],
+      "location": "COCE Floor 1",
+      "hours": "9 AM to 5 PM",
+      "phone": "(716) 338 1009",
+      "email": "FinacialAid@sunyjcc.edu",
+      "website": "https://www.sunyjcc.edu/support/financial-aid-billing",
+      "description": "Financial aid applications, grants, and scholarship information.",
+      "verified_by": "Christian Miles",
+      "last_verified": "2026/10/01"
+    }
+  ]
+}

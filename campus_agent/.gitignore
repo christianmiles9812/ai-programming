@@ -1,0 +1,14 @@
+# Python generated files
+__pycache__/
+*.py[cod]
+
+# Visual Studio workspace files
+.vs/
+*.sln
+*.slnx
+*.vsidx
+*.wsuo
+
+# ADK local files
+.env
+.adk/
